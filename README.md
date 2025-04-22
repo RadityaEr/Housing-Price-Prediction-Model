@@ -1,6 +1,6 @@
 # 🏠 Housing Price Prediction Model
 
-This project focuses on predicting housing prices using machine learning models, based on the 1990 California Census dataset. The dataset is featured in Chapter 2 of *Aurélien Géron's Hands-On Machine Learning with Scikit-Learn and TensorFlow* and sourced from [Kaggle](https://www.kaggle.com).
+This project focuses on predicting housing prices using machine learning models, based on the 1990 California Census dataset. The dataset is featured in Chapter 2 of *Aurélien Géron's Hands-On Machine Learning with Scikit-Learn and TensorFlow* and sourced from [Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices/data).
 
 ---
 
